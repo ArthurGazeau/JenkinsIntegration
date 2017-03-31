@@ -1,14 +1,11 @@
 package com.mycompany.codemorse;
 
-import java.awt.BorderLayout;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-import javax.swing.JFrame;
-import javax.swing.JScrollPane;
-import javax.swing.JTextArea;
 
-public class Morse extends JFrame 
+
+public class Morse  
 
     { 
 
